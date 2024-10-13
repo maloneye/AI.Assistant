@@ -1,4 +1,6 @@
-﻿namespace Assistant.Core.Rest;
+﻿using Assistant.Core.Rest;
+
+namespace Assistant.Core.Interfaces;
 
 public interface IGeminiResponse
 {

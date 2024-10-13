@@ -1,4 +1,5 @@
 ﻿using System.Text.Json.Serialization;
+using Assistant.Core.Interfaces;
 
 namespace Assistant.Core.Rest;
 public class Response : IGeminiResponse
